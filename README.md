@@ -1,2 +1,2 @@
 # gitskills
-this is master README.md
+this is our README.md
